@@ -120,6 +120,16 @@ gokaskad
 
 ---
 
+|No1 - VLESS 3X-UI (aBTO)  (авто установка)<br />|No2 - Marzban (авто)  (авто установка)<br />|No3 - Amnezia (XRay) <br />|No4 - VLESS 3X-UI (ручная) <br />|№5 - 1 часть. Keenetic + AmneziaWG <br />|
+|-|-|-|-|-|
+|№6 - 2 часть. Keenetic точечная маршрутизация <br />|No7 - Keenetic + KVAS + AmneziaWG <br />|No8 - Keenetic + VLESS (XKeen) + WhiteVPN <br />|No9 - VLESS Ha OpenWRT Redmi AX6000 + WhiteVPN <br />|No10 - VLESS (3X-UI) + SSL 10 лет + WhiteVPN <br />|
+|No11 - VLESS (3X-UI) PRO ИНСТРУКЦИЯ + WhiteVPN <br />|No12 - VLESS Ha OpenWRT Xiaomi AX3000T + WhiteVPN <br />|No13 - Keenetic + AmneziaWG + HydraRoute v.0.0.1b <br />|No14 - Keenetic + OpenWRT + (VLESS) + WhiteVPN <br />|No15 - VPN Ha L2TP для TP-link / Huawei и другие роутеры <br />|
+|No16 - VPN VLESS на Marzban панели <br />|№17 - доступы к банкам и сервисам в РФ из других стран + WhiteVPN <br />|No18 - SOCKS5 сервер в одну строку (для антидетект браузеров и не только) <br />|No19 - Hiddify-manager Панель для VLESS и не только <br />|No20 - Outline Manager <br />|
+|No21 - Keenetic + AmneziaWG + HydraRoute v.0.0.2b <br />|No22 - OpenWRT (VLESS) + Cudy + WhiteVPN <br />|№23 - свой DNS AmneziaWG <br />|№24 - VPN для игр сервер - резолвер на (UDP + ASC + Multi) VPS (AdGuard) <br />|No25 - AmneziaWG + OpenWRT + маршрутизация <br />|
+|No26 - OpenWRT (VLESS) + Podkop + White VPN <br />|No27 - Keenetic + VLESS (XKeen FORK) + WhiteVPN <br />|No28 - ZeroTier - больше чем VPN (LAN on Internet) <br />|No29 - NeoFit + Keenetic (VLESS) + WhiteVPN <br />|No30 - MikroTik + VLESS Sing-Box + маршрутизация + WhiteVPN <br />|
+|No31 - MikroTik + AmneziaWG + маршрутизация <br />|No32 - MikroTik + VLESS Mihomo + маршрутизация + WhiteVPN <br />|No33 - Keenetic + XKeen Mihomo (VLESS) + WhiteVPN <br />|№34 - каскадный VPN VLESS РФ VPS + мир VPS + WhiteVPN <br />|№35 - каскадный VPN Wireguard (RU) + VLESS + WhiteVPN <br />|
+|No36 - AmneziaWG + Keenetic (Netcraze) (Прямой и Каскад) <br />|No37 - AmneziaWG + IOS / Android / PC (Прямой и Каскад) NEW<br />|No38 - MTproxy (протокол от Telegram) + скрипт <br />|№39 - Прокси Socks5 Ha 3x-ui Telegram <br />|No40 - AmneziaWG 2.0 + Keenetic (AWG-Manager) <br />|
+
 # Часто задаваемые вопросы и ответы (FAQ)
 
 ## **В: Почему платно, в интернете бесплатно\!** 
